@@ -88,12 +88,3 @@ textarea::placeholder{
     padding: 10px;
 }
 
-input[type="submit"]{
-    background: none;
-    margin-top: 15px;
-}
-
-a{
-    padding-top: 75px;
-    padding-bottom: 10px;
-}
